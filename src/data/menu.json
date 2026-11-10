@@ -1,0 +1,155 @@
+[
+  {
+    "id": "pizza-margarita",
+    "name": "Pizza Margarita",
+    "category": "Pizzas",
+    "description": "Salsa de tomate y queso.",
+    "price": 6,
+    "image": "https://images.unsplash.com/photo-1579751626657-72bc17010498?auto=format&fit=crop&w=900&q=85",
+    "featured": true
+  },
+  {
+    "id": "pizza-super",
+    "name": "Pizza Súper",
+    "category": "Pizzas",
+    "description": "Salsa, queso, jamón y tocineta.",
+    "price": 9,
+    "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&w=900&q=85",
+    "featured": true
+  },
+  {
+    "id": "pizza-llanera",
+    "name": "Pizza Llanera",
+    "category": "Pizzas",
+    "description": "Salsa, queso y carne mechada.",
+    "price": 10,
+    "image": "https://images.unsplash.com/photo-1571407970349-bc81e7e96d47?auto=format&fit=crop&w=900&q=85",
+    "featured": false
+  },
+  {
+    "id": "hamburguesa-clasica",
+    "name": "Hamburguesa clásica",
+    "category": "Hamburguesas",
+    "description": "Vegetales, papitas, jamón, queso, huevo, tocineta, carne y salsa.",
+    "price": 5,
+    "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=900&q=85",
+    "featured": true
+  },
+  {
+    "id": "hamburguesa-mini",
+    "name": "Hamburguesa mini",
+    "category": "Hamburguesas",
+    "description": "Vegetales, papitas, jamón, queso, carne y salsa.",
+    "price": 3,
+    "image": "https://images.unsplash.com/photo-1550547660-d9450f859349?auto=format&fit=crop&w=900&q=85",
+    "featured": false
+  },
+  {
+    "id": "hamburguesa-mixta",
+    "name": "Hamburguesa mixta",
+    "category": "Hamburguesas",
+    "description": "Vegetales, papitas, jamón, queso, huevo, tocineta, carne, pollo y salsa.",
+    "price": 7,
+    "image": "https://images.unsplash.com/photo-1553979459-d2229ba7433a?auto=format&fit=crop&w=900&q=85",
+    "featured": false
+  },
+  {
+    "id": "combo-mini-burgers",
+    "name": "Combo 3 mini hamburguesas",
+    "category": "Hamburguesas",
+    "description": "Tres mini hamburguesas con sus acompañantes.",
+    "price": 8,
+    "image": "https://images.unsplash.com/photo-1561758033-d89a9ad46330?auto=format&fit=crop&w=900&q=85",
+    "featured": false
+  },
+  {
+    "id": "perro-normal",
+    "name": "Perro normal",
+    "category": "Perros calientes",
+    "description": "Salchicha, repollo, papitas y salsas.",
+    "price": 2,
+    "image": "https://images.unsplash.com/photo-1612392062126-2f7f9f3f9f5b?auto=format&fit=crop&w=900&q=85",
+    "featured": true
+  },
+  {
+    "id": "perro-carne",
+    "name": "Perro con carne",
+    "category": "Perros calientes",
+    "description": "Salchicha, vegetales, carne, papitas, queso amarillo, jamón y tocineta.",
+    "price": 4,
+    "image": "https://images.unsplash.com/photo-1555126634-323283e090fa?auto=format&fit=crop&w=900&q=85",
+    "featured": false
+  },
+  {
+    "id": "combo-7-perros",
+    "name": "Combo 7 perros normales",
+    "category": "Perros calientes",
+    "description": "Siete perros normales con repollo, papitas y salsas.",
+    "price": 10,
+    "image": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?auto=format&fit=crop&w=900&q=85",
+    "featured": false
+  },
+  {
+    "id": "combo-2-perros",
+    "name": "Combo 2 perros normales",
+    "category": "Perros calientes",
+    "description": "Dos perros normales con repollo, papitas y salsas.",
+    "price": 3,
+    "image": "https://images.unsplash.com/photo-1599599810694-b5ac4ddf5a9a?auto=format&fit=crop&w=900&q=85",
+    "featured": false
+  },
+  {
+    "id": "parrilla-pollo",
+    "name": "Parrilla de pollo a la broaster",
+    "category": "Parrillas",
+    "description": "Pollo a la broaster con acompañantes. Confirma los acompañantes con el local.",
+    "price": 8,
+    "image": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?auto=format&fit=crop&w=900&q=85",
+    "featured": true
+  },
+  {
+    "id": "parrilla-mixta",
+    "name": "Parrilla mixta de carne",
+    "category": "Parrillas",
+    "description": "Selección de carnes a la parrilla. Confirma los acompañantes con el local.",
+    "price": 10,
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=900&q=85",
+    "featured": false
+  },
+  {
+    "id": "shawarma",
+    "name": "Shawarma",
+    "category": "Shawarmas",
+    "description": "Vegetales, jamón, queso, tocineta, carne, pollo y salsa.",
+    "price": 5,
+    "image": "https://images.unsplash.com/photo-1529006557810-274b9b2fc783?auto=format&fit=crop&w=900&q=85",
+    "featured": true
+  },
+  {
+    "id": "refresco-1l",
+    "name": "Refresco 1 litro",
+    "category": "Bebidas",
+    "description": "Presentación de 1 litro. Marca según disponibilidad.",
+    "price": 2,
+    "image": "https://images.unsplash.com/photo-1629203851122-3726ecdf080e?auto=format&fit=crop&w=900&q=85",
+    "featured": false
+  },
+  {
+    "id": "refresco-2l",
+    "name": "Refresco 2 litros",
+    "category": "Bebidas",
+    "description": "Presentación de 2 litros. Marca según disponibilidad.",
+    "price": 3,
+    "image": "https://images.unsplash.com/photo-1581636625402-29b2a704ef13?auto=format&fit=crop&w=900&q=85",
+    "featured": false
+  },
+  {
+    "id": "jugo",
+    "name": "Jugo",
+    "category": "Bebidas",
+    "description": "Jugo. Sabor y presentación según disponibilidad.",
+    "price": 2,
+    "image": "https://images.unsplash.com/photo-1600271886742-f049cd451bba?auto=format&fit=crop&w=900&q=85",
+    "featured": false
+  }
+]
