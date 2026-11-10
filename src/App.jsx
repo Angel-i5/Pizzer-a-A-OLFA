@@ -1,5 +1,6 @@
 import { useMemo, useState } from "react";
 import { Search, ShoppingBag, Flame, MapPin, CreditCard } from "lucide-react";
+import { SpeedInsights } from "@vercel/speed-insights/react";
 import Header from "./components/Header";
 import Hero from "./components/Hero";
 import ProductCard from "./components/ProductCard";
@@ -55,6 +56,7 @@ export default function App() {
       <Footer />
       <button className="floating-cart" onClick={()=>setCartOpen(true)} aria-label="Abrir carrito"><ShoppingBag/><span>Mi pedido</span><b>{cartCount}</b></button>
       <CartDrawer open={cartOpen} onClose={()=>setCartOpen(false)} cart={cart} setCart={setCart}/>
+      <SpeedInsights />
     </>
   );
 }
